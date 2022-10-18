@@ -1,0 +1,37 @@
+.tweet-left{
+width: 10%;
+
+display: grid;
+justify-items: center;
+padding-top: 8px;
+
+}
+.tweet-tweet-body{
+    width: 90%;
+   
+}
+
+.tweet-tweet-username{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    width: 100%;
+
+}
+.tweet-tweet-tweet{
+    font-weight: 300;
+}
+.tweet-body{
+   
+    overflow: scroll;
+    height: 73vh;
+}
+.tweet-body::-webkit-scrollbar {
+    width: 0;
+    /* Remove scrollbar space */
+    background: transparent;
+    /* Optional: just make scrollbar invisible */
+}
+.tweet-body::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}

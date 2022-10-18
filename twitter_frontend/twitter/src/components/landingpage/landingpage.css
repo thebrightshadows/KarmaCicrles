@@ -1,0 +1,89 @@
+.landing-page-body{
+
+display: flex;
+}
+
+.landing-page-left-half{
+    width: 55%;
+    height: auto;
+}
+.landing-page-left-half-image{
+    width: 100%;
+}
+.landing-page-right-half {
+    width: 45%;
+    background-color: black;
+    display: block;
+    
+}
+
+.landing-page-right-half-heading{
+    color: white;
+    font-weight: 900;
+    font-size: 4em;
+}
+.landing-page-right-half-heading1 {
+    color: white;
+    font-weight: 900;
+    font-size: 2em;
+}
+
+.landing-page-right-half-heading-div{
+
+    margin-top: 10em;
+    margin-left: 2em;
+}
+
+.landing-page-right-half-heading-div1 {
+    margin-top: 3em;
+    margin-left: 2em;
+    
+}
+.landing-page-signup-button{
+    width: 15em;
+    background-color: rgb(25, 117, 178);
+    text-align: center;
+    height: 2em;
+    border-radius: 2em;
+}
+.landing-page-signup-button-text{
+    color: white;
+    font-weight: 700;
+    vertical-align: -webkit-baseline-middle;
+}
+.landing-page-signup-div{
+    margin-top: 4em;
+    margin-left: 2em;
+}
+.landing-page-signup-privacy-text{
+    color: grey;
+    font-size: 9px;
+
+}
+
+.landing-page-signup-privacy-div {
+    margin-top: 1px;
+    width: 15em;
+}
+.landing-page-signin-heading{
+    color: white;
+    font-weight: 800;
+    margin-top: 5em;
+    font-size: 1.5em;
+}
+.landing-page-signin-button{
+    width: 15em;
+    background-color: grey;
+    text-align: center;
+    height: 2em;
+    border-radius: 2em;
+    border-color: white;
+    border-width: 1px;
+    margin-top: 20px;
+}
+
+.landing-page-signin-button-text {
+    color: deepskyblue;
+    font-weight: 700;
+    vertical-align: -webkit-baseline-middle;
+}
